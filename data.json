@@ -1,0 +1,88 @@
+{
+  "question": [
+    "Q1. Who developed Python Programming Language?",
+    "Q2. Which type of Programming does Python support?",
+    "Q3. Is Python case sensitive when dealing with identifiers?",
+    "Q4. Which of the following is the correct extension of the Python file?",
+    "Q5. Is Python code compiled or interpreted?",
+    "Q6. All keywords in Python are in _________",
+    "Q7. Which of the following functions is a built-in function in python?",
+    "Q8. Which of the following is used to define a block of code in Python language?\n\t\t\t",
+    "Q9. Which keyword is used for function in Python language?",
+    "Q10. Python supports the creation of anonymous functions at runtime, using a construct called __________"
+  ],
+  "answer": [
+    3,
+    4,
+    2,
+    3,
+    1,
+    4,
+    2,
+    1,
+    2,
+    3
+  ],
+  "options": [
+    [
+      "Wick van Rossum",
+      "Rasmus Lerdorf",
+      "Guido van Rossum",
+      "Niene Stom"
+    ],
+    [
+      "Object-oriented programming",
+      "Structured programming",
+      "Functional programming",
+      "All of the mentioned"
+    ],
+    [
+      "No\t\t\t\t",
+      "Yes\t\t\t\t",
+      "Machine Dependent\t\t",
+      "None of the mentioned"
+    ],
+    [
+      ".python",
+      ".pl\t\t\t\t",
+      ".py\t\t\t\t",
+      ".p\t\t\t\t\t"
+    ],
+    [
+      "Python code is both compiled and interpreted",
+      "Python code is neither compiled nor interpreted",
+      "Python code is only compiled",
+      "Python code is only interpreted"
+    ],
+    [
+      "Capitalized\t\t\t\t",
+      "lower case\t\t\t\t",
+      "UPPER CASE\t\t\t\t",
+      "None of the mentioned\t\t"
+    ],
+    [
+      "factorial()\t\t\t\t",
+      "print()\t\t\t\t",
+      "seed()\t\t\t\t",
+      "sqrt()\t\t\t\t"
+    ],
+    [
+      "Indentation",
+      "Key\t\t\t",
+      "Brackets",
+      "All of the mentioned"
+    ],
+    [
+      "Function\t\t",
+      "def\t\t\t\t",
+      "Fun\t\t\t\t",
+      "Define\t\t\t\t"
+    ],
+    [
+      "pi\t\t\t\t",
+      "anonymous",
+      "lambda",
+      "none of the mentioned"
+    ]
+  ]
+}
